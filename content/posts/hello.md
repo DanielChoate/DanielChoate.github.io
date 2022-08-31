@@ -4,6 +4,8 @@ author = "Daniel Choate"
 description = "A highly motivated and confident self-starter, seeking to utilize acquired skills and education in an entry-level office position while contributing innovative ideas to achieve professional growth and progress."
 +++
 
+[Linkedin](https://www.linkedin.com/in/danielchoate/)
+
 # Experience
 
 **Team Lead | Sonic Drive-In | Pearland, TX | March 2018 - August 2020**
@@ -61,7 +63,6 @@ protect themselves.
 | Data Management |
 | Methodical Approach |
 | Multi-Tasking |
-
 
 
 
