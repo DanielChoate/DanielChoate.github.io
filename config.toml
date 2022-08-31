@@ -12,7 +12,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
+    title = "Daniel Choate Resume"
     subtitle = "A site built in 2 Hours"
     keywords = ""
     copyright = ""
