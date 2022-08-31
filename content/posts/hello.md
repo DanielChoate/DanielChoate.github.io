@@ -31,15 +31,18 @@ that customers commonly purchase.
 # Coursework
 **Technical Support Fundamentals | Coursera**
 - Learned how to utilize common problem-solving methodologies and soft skills in an Information Technology setting.
+
 **The Bits and Bytes of Computer Networking | Coursera**
 - Learned computer networks in terms of the five-layer model. understand all of the standard protocols involved with TCP/IP communications
+
 **Operating Systems and You: Becoming a Power User | Coursera**
 - Learned how to perform critical tasks like managing software and users and configuring hardware.
+
 **System Administration and IT Infrastructure Services | Coursera**
 - Learned how to manage and configure servers and how to use industry tools to manage computers, user information, and user productivity.
+
 **IT Security: Defense against the digital dark arts | Coursera**
-- Learned how to evaluate potential risk and recommend ways to reduce risk. Best practices for securing a network. And how to help others to grasp security concepts and
-protect themselves.
+- Learned how to evaluate potential risk and recommend ways to reduce risk. Best practices for securing a network. And how to help others to grasp security concepts and protect themselves.
 
 # Education
 **Computer Science major | San Jacinto College | 3.0 GPA**
