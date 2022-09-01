@@ -27,13 +27,3 @@ paginate = 5
     [languages.en.params.logo]
       logoText = "Daniel Choate"
       logoHomeLink = "/"
-      
- [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "projects"
-        url = "/projects"
-        [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Home"
-        url = "/posts/hello"
