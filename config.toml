@@ -29,3 +29,7 @@ paginate = 5
         identifier = "projects"
         name = "projects"
         url = "/projects"
+        [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Home"
+        url = "/posts/hello"
