@@ -1,19 +1,19 @@
-baseurl = "https://danielchoate.github.io/"
+baseurl = "https://example.com/"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
 
 [params]
   contentTypeName = "posts"
-  themeColor = "red"
+  themeColor = "orange"
   showMenuItems = 2
-  fullWidthTheme = true
-  centerTheme = true
+  fullWidthTheme = false
+  centerTheme = false
 
 [languages]
   [languages.en]
     title = "Terminal"
-    subtitle = "A site built in 2 Hours"
+    subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Daniel Choate"
+      logoText = "Terminal"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -29,7 +29,3 @@ paginate = 5
         identifier = "projects"
         name = "projects"
         url = "/projects"
-        [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Home"
-        url = "/posts/hello"
