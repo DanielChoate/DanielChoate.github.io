@@ -12,7 +12,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Daniel Choate Resume"
+    title = "Terminal"
     subtitle = "A site built in 2 Hours"
     keywords = ""
     copyright = ""
@@ -33,8 +33,3 @@ paginate = 5
         identifier = "showcase"
         name = "Home"
         url = "/posts/hello"
-
-    [languages.en.params.logo]
-      logoText = "Daniel Choate"
-      logoHomeLink = "/"
-
