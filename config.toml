@@ -5,10 +5,10 @@ paginate = 5
 
 [params]
   contentTypeName = "posts"
-  themeColor = "orange"
+  themeColor = "red"
   showMenuItems = 2
-  fullWidthTheme = false
-  centerTheme = false
+  fullWidthTheme = true
+  centerTheme = true
 
 [languages]
   [languages.en]
@@ -37,3 +37,4 @@ paginate = 5
     [languages.en.params.logo]
       logoText = "Daniel Choate"
       logoHomeLink = "/"
+
