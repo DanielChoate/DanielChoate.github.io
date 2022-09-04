@@ -1,10 +1,16 @@
 +++
 title = "Resume"
 author = "Daniel Choate"
-description = "A highly motivated and confident self-starter, seeking to utilize acquired skills and education in an entry-level office position while contributing innovative ideas to achieve professional growth and progress."
+tags = ["Blogs","Goals"]
+description = "My Resume"
 +++
 
+
 Contact | [Linkedin](https://www.linkedin.com/in/danielchoate/)
+
+# Introduction
+
+A highly motivated and confident self-starter, seeking to utilize acquired skills and education in an entry-level office position while contributing innovative ideas to achieve professional growth and progress.
 
 # Experience
 

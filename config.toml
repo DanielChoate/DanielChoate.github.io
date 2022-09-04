@@ -12,8 +12,8 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Daniel Choate"
+    subtitle = "A simple Resume and blog website"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -21,7 +21,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Daniel Choate"
       logoHomeLink = "/"
 
     [languages.en.menu]
